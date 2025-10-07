@@ -1,0 +1,14 @@
+# Site settings
+title: Smart Home Gurus
+description: Making Your Home Smarter, Faster & Better Connected
+url: "https://www.smarthomegurus.co.uk" # your custom domain
+theme: jekyll-theme-cayman
+
+# Author info
+author:
+  name: Lee Vickers
+  email: enqiuries@smarthomegurus.co.uk
+
+# Plugins for remote themes or SEO if needed
+plugins:
+  - jekyll-seo-tag
